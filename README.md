@@ -1,5 +1,5 @@
 # CLDI
-The Corpus of Language Discrimination in Interaction 
+The Corpus of Language Discrimination in Interaction (working version - see [TalkBank](http://ca.talkbank.org) for the published version).
 
 This repository contains a working collection of transcripts in the [CHAT-CA Heritage format](https://talkbank.org/manuals/CHAT.html#_Toc40195923) - using the [CLAN transcript editing system](https://dali.talkbank.org/clan/).
 
