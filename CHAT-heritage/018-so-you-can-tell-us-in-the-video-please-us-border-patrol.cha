@@ -1,0 +1,351 @@
+@UTF8
+@Window:	0_0_0_0_11540_1_12642_0_12642_0
+@Begin
+@Languages:	eng
+@Participants:	CHA Challenger Unidentified, TAR Target Unidentified, CAM
+	camerawmoman Unidentified, RAD radio Unidentified, OF2 second
+	officer Unidentified, BYS bystander Unidentified, SIL silence
+	Unidentified
+@Options:	CA, heritage
+@ID:	eng|Language_Discrimination_Corpus|CHA||male|||Unidentified|||
+@ID:	eng|Language_Discrimination_Corpus|TAR||female|||Unidentified|||
+@ID:	eng|Language_Discrimination_Corpus|CAM||female|||Unidentified|||
+@ID:	eng|Language_Discrimination_Corpus|OF2||male|||Unidentified|||
+@ID:	eng|Language_Discrimination_Corpus|BYS||unknown|||Unidentified|||
+@ID:	eng|Language_Discrimination_Corpus|RAD||unknown|||Unidentified|||
+@Media:	018-so-you-can-tell-us-in-the-video-please-us-border-patrol,video
+@Comment:	Original video: https://www.youtube.com/watch?time_continue=89&v=tCql5FeFAZ8&feature=emb_logo
+@Comment:	Additional link:https://www.aclu.org/press-releases/customs-and-border-protection-settles-federal-lawsuit-american-citizens-racially
+@Comment:	Descriptions: Woman behind the camera (CAM), target/woman
+	with pink hat and black shirt (TAR), challenger/first border patrol
+	officer (CHA), police radio (RAD), second officer to arrive (OF2),
+	another bystander at the gas station (BYS)
+@Comment:	Date of incident: 05-16-2018
+@Comment:	Vernacular title: So can you tell us in the video please
+	(U.S. Border Patrol)
+@Comment:	Corpus ID: LD_018
+@Comment:	Length: 19:40
+@Comment:	Original transcriber note: The women say the word profile
+	like purr-fill but I believe that is what they are saying.
+@Transcriber:	Olivia Marrese, 11-30-2020, CLANned by Jacob Henry,
+	05-25-2021
+@Location:	Gas station, Havre, Montana
+@New Episode
+*TAR:	((walks towards officer/sound of footsteps on gravel)) 0_1474
+*CHA:	((speaking into radio)) First name (.) (Dana/Anna) (.) (
+	number alpha)(0.7) date of birth five seventeen eighty one 1474_6222
+*SIL:	(2.1) 6222_8253
+*TAR:	.hhhh[h So can you tell us in the video please why you ask= 8253_10977
+*CHA:	     [(Can I help you with something) 10977_11436
+*TAR:	us for our ID’s please? 11436_12740
+*SIL:	(0.5) 12740_13098
+*CHA:	Ma’am the reason I asked you for your ID is because I (0.4)
+	came in here and I saw that you guys are speaking Spanish
+	which is very unheard of up here 13098_20006
+*SIL:	(.) 20006_20080
+*TAR:	Mmkay? 20080_20632
+*SIL:	(0.4) 20632_21112
+*CHA:	Just run your name and date of birth (0.4) [(ju:st for-) 21112_22711
+*CAM:	                                           [(We have
+	you say     [ ) 22711_24148
+*TAR:	            [That just because our (profile) right?= 24148_26215
+*CHA:	=>N[o<? 26215_26820
+*TAR:	   [Racial (profile) (0.4) (profi[le) 26820_28698
+*CHA:	                                 [It has nothing to do with
+	that [(.) it’s the fact that has to do with has to do with= 28698_31386
+*TAR:	     [No? 31386_31607
+*CHA:	you guys speaking Spanish in the store[: 31607_32767
+*TAR:	                                      [Is Spanish in the
+	store 32767_33828
+*SIL:	(.) 33828_34163
+*CHA:	in a state where it’s predominantly English speaking ka[y 34163_37089
+*TAR:	                                                       [Okay
+	(0.4) sounds good 37089_38643
+*SIL:	(1.5) 38643_39883
+*TAR:	Can we have your name also 39883_41349
+*SIL:	(0.3) 41349_41798
+*CHA:	Yes sir it is (uh/a) agent O’Neal 41798_43152
+*SIL:	(2.8) 43152_45220
+*TAR:	and we are (.) recording 45220_47400
+*SIL:	(1.5) 47400_49257
+*CHA:	((speaking into radio)) Seven forty (0.5) excuse me five zero
+	four five two eight 49257_52491
+*SIL:	(.)
+	((radio click)) 52491_54655
+*SIL:	(3.2) 54655_55857
+*RAD:	(>Go ahead<) zero four) 55857_56824
+*SIL:	(1.4) 56824_57758
+*CHA:	((speaking into radio)) Can you meet me at the (town pump)
+	please? 57758_59244
+*SIL:	(2.0)
+	((places radio back in car/keys jingle)) 59244_62310
+*RAD:	(           For       uh::	twenty miles north 62310_66338
+*SIL:	(5.6) 66338_72157
+*CHA:	Te::n four (1.0) five two seven (1.0) five two eight 72157_76235
+*SIL:	(6.8) 76235_81706
+*TAR:	So we just come here:::	(.) to the store to buy m̲i̲:̲:̲lk and
+	eggs (1.1) a:::nd this border patrol he just asked us::	for
+	ID? (1.0) because we have a (accent)? (.) and we speak
+	Spanish, 81706_96867
+*SIL:	(3.0) 96867_99560
+*TAR:	.pt (.) So 99560_101366
+*SIL:	(12.1) ((train passing by)) 101366_113084
+*CHA:	(    For seven        ) 113084_114070
+*SIL:	(2.4) 114070_116923
+*RAD:	(go ahead) 116923_117634
+*SIL:	(1.3) 117634_118535
+*CHA:	(Yes sir         ) downtown (          ) 118535_120561
+*SIL:	(0.8) 120561_122018
+*???:	.hhh 122018_123214
+*SIL:	(6.6) ((train passing by)) 123214_127457
+*CHA:	((puts radio back in car)) 127457_130141
+*SIL:	(1.7) 130141_131584
+*CHA:	.pt (.) Ma’am can you please take your hands out of your
+	pockets 131584_133653
+*SIL:	(0.9) 133653_134007
+*TAR:	↑Sure 134007_134796
+*SIL:	(.) 134796_135082
+*CHA:	Thank you very much 135082_135927
+*SIL:	(6.6)
+	((air being expelled from a engine)) 135927_144460
+*SIL:	(13.0) 144460_155424
+*TAR:	So it- it is illegal to speak Spanish? in montana? 155424_161017
+*SIL:	(.) 161017_161562
+*CHA:	.pt (.) No ma’am it’s not i̲l̲l̲e̲g̲a̲l̲ it’s just very unheard of
+	out here, 161562_164239
+*SIL:	(.) 164239_164444
+*TAR:	R̲e̲a̲l̲l̲y̲, (.) [so are- are you new here 164444_166697
+*CHA:	            [Yes 166697_166893
+*SIL:	(0.4) 166893_167084
+*CHA:	No ma’am I’ve been up here for a while, 167084_168556
+*SIL:	(0.2) 168556_169112
+*TAR:	Oh really (0.5) mm 169112_170301
+*SIL:	(13.2) 170301_181529
+*CHA:	Can you do me a favor? can you guys just step right there, 181529_183899
+*SIL:	(0.4) 183899_184097
+*TAR:	Of c̲o̲u̲r̲s̲e̲= 184097_184971
+*CHA:	Thank you very much 184971_185536
+*SIL:	(1:49.0) 185536_294927
+*CAM?:	(     ) .pt he he he 294927_296268
+*SIL:	(6.5) 296268_301903
+*CAM:	((Spanish)) (1.2) ((Spanish)) 301903_306930
+*SIL:	(5.5) 306930_312540
+*OF2:	((closes car door))(4.2)((opens passenger door of CHA’s car)) 312540_315442
+*OF2:	What’s going on (          ) 315442_316712
+*SIL:	((both officers speak to each other but it’s inaudible / 316712_327435
+*	18.0)) 327435_335635
+*SIL:	(6.0) 335635_341703
+*OF2:	(         ) 341703_343289
+*SIL:	(27.0) 343289_369526
+*TAR?:	*mm hhh* 369526_370572
+*SIL:	(2.0) 370572_372730
+*OF2:	(       )(0.8)(           ) 372730_374055
+*SIL:	(0.7) 374055_374996
+*CHA:	Oh we do? 374996_375202
+*SIL:	(0.2) 375202_375545
+*OF2:	(That’s why               ) 375545_376216
+*CHA:	Thank you 376216_377749
+*SIL:	(0.5) 377749_378666
+*CAM?:	hhhhh 378666_379089
+*SIL:	(1.0) 379089_379707
+*???:(             ) 379707_380111
+*SIL:	(.) 380111_380472
+*TAR:	Yeah (1.6) (what’s up/((Spanish))) 380472_383878
+*SIL:	(1:09.0) 383878_454244
+*TAR?:	((Spanish)) 454244_454908
+*SIL:	(1.2) 454908_455534
+*CAM?:	>hm< 455534_456388
+*SIL:	(15.0) 456388_471639
+*OF2:	(                Is there anything else) 471639_474288
+*SIL:	(1.0) 474288_475674
+*CHA:	hhhhh 475674_476451
+*SIL:	(50.0) 476451_526853
+*CAM?:	((Spanish)) 526853_531913
+*TAR:	ah he ↑he he he 531913_532613
+*SIL:	(12.0) 532613_543441
+*CAM:	mmm hhhh= 543441_545309
+*TAR:	((Spanish)) 545309_546043
+*SIL:	(2.0) 546043_547310
+*SIL:	((footsteps))((car door shuts)) 547310_549025
+*SIL:	(0.7) 549025_550211
+*TAR:	((Spanish)) 550211_552234
+*SIL:	(0.5) 552234_552549
+*CAM:	mmpft 552549_553145
+*SIL:	(20.0) 553145_573931
+*CAM:	((Spanish)) 573931_574533
+*TAR:	((Spanish)) 574533_575005
+*SIL:	(3.8) 575005_577357
+*CAM:	[((Spanish)) (1.3) [((Spanish)) 577357_582117
+*OF2:	[(            ) 582117_582467
+*CHA:	                   [((speaks into radio)) (                ) 582467_585244
+*SIL:	(3.5) 585244_586044
+*RAD:	(           ) 586044_586657
+*CHA:	((speaks into radio)) >(     )< 586657_588443
+*SIL:	(19.0) 588443_608543
+*TAR:	((Spanish)) 608543_615930
+*SIL:	(4.0) 615930_619607
+*TAR:	((Spanish))(1.0) ((Spanish)) 619607_628376
+*CAM:	((Spanish)) 628376_629123
+*SIL:	(1.0) 629123_629757
+*TAR:	He:::	say::	he stop u:s (1.3) only because:	we speak
+	Spanish and that English is not goo:d 629757_637212
+*SIL:	(1.4) 637212_638333
+*TAR:	He:	sai::d tha:t’s i̲l̲l̲e̲g̲a̲l̲ here in montana (do [     ) 638333_641324
+*CAM:	                                              [(oh no    ) 641324_642103
+*SIL:	(2.4) 642103_645328
+*TAR:	And no:w he’s even laughing::	i mean now i (         )
+	smi::::ling::	and- and- 645328_650647
+*SIL:	(4.9) 650647_654762
+*CAM:	((Spanish)) (1.1) ((Spanish)) 654762_662171
+*SIL:	(1.9) 662171_663867
+*TAR:	And this is happening ri::ght now 663867_666365
+*SIL:	(9.7) 666365_676376
+*TAR:	When we ask why we get stopped and he say because (.) us
+	English is >not good< (0.9) and we was speaking Spanish (0.6)
+	[in montana (.) in the store 676376_686509
+*CAM:	[In the store 686509_686582
+*SIL:	(0.6) 686582_687034
+*TAR:	a::nd here (.) they speak o̲n̲l̲y̲ English 687034_689912
+*SIL:	(5.6) 689912_695382
+*TAR:	The cashier in the gas station she was t̲h̲e̲r̲e̲ (.) so she hear
+	everything and (       ) just checking (all/our) paper::s 695382_703961
+*SIL:	(6.8) 703961_710497
+*TAR:	and this is (1.2) his jeep number M (0.7) one nine zero (0.6)
+	[seven nine 710497_717904
+*RAD:	[(                ) 717904_718531
+*SIL:	(3.4) 718531_721525
+*TAR:	Now you can even be ((Spanish)) montana= 721525_724612
+*RAD:	=(Yeah           ) 724612_724912
+*SIL:	(12.0) 724912_737798
+*TAR:	*(     ) it down so that way they can see his face also* 737798_740538
+*SIL:	(3.5) 740538_743756
+*TAR:	He have a good a smile (1.5) *at least* 743756_747719
+*SIL:	(4.7) 747719_751970
+*TAR:	And after he stop us he ca:ll (0.4) and another:	(0.6) car
+	comes (.) here 751970_758530
+*SIL:	(0.7) 758530_759320
+*CAM:	((Spanish)) (0.4) ((Spanish)) 759320_761269
+*SIL:	(18.5) 761269_778896
+*TAR:	((distant)) >hi< 778896_780172
+*SIL:	(0.5) 780172_780625
+*???:	>(    )< 780625_781429
+*SIL:	(1.3) 781429_782249
+*SIL:	((car engine starts)) 782249_783236
+*SIL:	(21.3) 783236_804898
+*TAR:	The other car number is M (0.6) zero five eight seven eight 804898_808298
+*SIL:	(16.0) 808298_824427
+*CAM:	((Spanish)) 824427_826034
+*SIL:	(1.5) 826034_827286
+*TAR:	(Was really) embarrassed for us but (1.2) what you get (.)
+	when you speak Spanish and you have a:	(1.3) (like      ) 827286_835587
+*SIL:	(8.3) 835587_843906
+*CAM:	Sad (0.4) this is sad this is happening i̲n̲ montana in
+	(halbert) montana 843906_848498
+*SIL:	(1.3) 848498_849834
+*CAM:	Just because we were speaking Spanish in the store (.) we
+	were stopped (0.7) that is (.) very (0.5) very sad 849834_856772
+*SIL:	(1.2) 856772_857663
+*CAM:	So (.) people (0.4) from (halbert) (.) don’t speak Spanish 857663_861903
+*SIL:	(0.7) in (halbert) 861903_863164
+*SIL:	(4.9) 863164_868076
+*TAR/CAM:	hhhhh 868076_869134
+*SIL:	(2.2) 869134_870473
+*SIL:	((car engine starts)) 870473_872780
+*SIL:	(8.4) 872780_881150
+*TAR:	(Here in        ) (1.8) (want to         ) 881150_885364
+*SIL:	(20.0) 885364_899442
+*SIL:	((CHA AND OF2 start speaking inadiably in car)) 899442_903537
+*CAM:	.hhhh Is this going to take too long, 903537_904602
+*SIL:	(3.9) 904602_908301
+*CAM:	sir, (1.0) [officer, 908301_910598
+*CHA:	           [(        a minute) 910598_911416
+*SIL:	(5.9) 911416_916055
+*CAM:	((cou[ghs)) 916055_917691
+*TAR:	     [So you can’t even come to the sto:re to buy some e̲g̲g̲s
+	and m̲i̲:̲l̲k (      )(0.4) while we was here 917691_922706
+*SIL:	(1.9) 922706_924373
+*SIL:	((crunching noise)) 924373_925336
+*SIL:	(13.2) 925336_941364
+*CAM:	I need to come back home (1.6) so (0.6) if you guys wanna
+	call somebody to (.) pick up from here or something because I
+	need to come back home right now (1.2) t̲h̲a̲t̲’̲s̲ i̲t̲ 941364_953404
+*SIL:	(.) 953404_953784
+*CHA:	Ma’am I understand that [(            ) 953784_954483
+*CAM:	                        [I am a US citizen and I have my
+	rights (0.6) I was born in the united states (.) o̲f̲ (.)
+	america   954483_959544
+*SIL:	(0.4) 959544_959818
+*CHA:	Yes ma’am [(I’m      ) 959818_961061
+*CAM:	          [So (.) please (0.4) give me my paper back and I’m-
+	I’m coming back home 961061_964355
+*SIL:	(.) 964355_964590
+*CHA:	As soon as we get your (checks) back [(       ) 964590_966077
+*CAM:	                                     [>Okay I need to come
+	back home because my h̲u̲s̲b̲a̲n̲d̲ is waiting for me< 966077_968905
+*SIL:	(.) 968905_969247
+*CHA:	(           now) [calm down 969247_970547
+*CAM:	                 [Okay (0.5) so the police is coming you can
+	call them and put us in jail (        ) sorry <I::	nee::d>
+	(0.5) my ID? and >I need to come back home because< I’m
+	a̲m̲e̲r̲i̲c̲a̲n̲ c̲i̲t̲i̲z̲e̲n̲ I have r̲i̲g̲h̲t̲s̲ (0.6)
+	[o̲k̲a̲y̲? 970547_981519
+*CHA:	                                     [(We) know that ma’am 981519_982045
+*SIL:	(.) 982045_982541
+*CAM:	↓Y̲e̲s̲ I do have rights (0.5) she has rights (.) she was born
+	here t̲o̲o̲ (1.5) we are not n:::::- .pt (0.5) just because my
+	husband is american he don’t make me american I was born here
+	(0.7) okay? (0.4) I have my rights (0.2) and I know that 982541_997342
+*SIL:	(0.4) 997342_997629
+*CHA:	Ma’am we’re just waiting on the (        ) to come ba:[ck 997629_999804
+*CAM:	                                                      [I am
+	waiting for:	[sixteen- (0.3) seventeen minutes right now 999804_1002845
+*CHA:	             [(               ) 1002845_1003148
+*SIL:	(1.1) 1003148_1003892
+*CAM:	>Just because I uh- speak Spanish< 1003892_1005584
+*SIL:	(0.9) 1005584_1005949
+*CHA:	Ma’am the checks take as long as they t[ake 1005949_1008110
+*TAR:	                                       [((Spanish)) 1008110_1008475
+*CAM:	                                       [That’s the o̲n̲l̲y̲ t̲h̲i̲n̲g̲
+ 	you have on me w- you have on me, 1008475_1011141
+*SIL:	(1.7) 1011141_1011800
+*CAM:	I know, (0.5) you need something more (0.3) to stop me, 1011800_1015446
+*SIL:	(0.7) 1015446_1015995
+*CAM:	I know my rights,(1.3) just because I look like this? (0.8)
+	you don’t have the right (0.4) to stop me (0.2) and you know that, 1015995_1023576
+*SIL:	(0.9) 1023576_1024041
+*CAM:	You know perfectly fine, 1024041_1025149
+*SIL:	(0.2) 1025149_1025253
+*CHA:	Ma’am we’re just waiting on the checks [(1.1) and we’ll make
+	a determination [(          ) 1025253_1029009
+*CAM:	                                       [okay 1029009_1029157
+*CAM:	                [sounds good 1029157_1029709
+*SIL:	(45.0) 1029709_1082833
+*CAM:	mm hhhh 1082833_1083029
+*SIL:	(4.9) 1083029_1086514
+*CAM:	((Spanish)) 1086514_1089450
+*SIL:	(2.8) 1089450_1091559
+*CAM:	((Spanish)) 1091559_1092624
+*SIL:	(6.6) 1092624_1098826
+*CAM:	((sp[anish)) 1098826_1100504
+*TAR:	    [((Spanish)) 1100504_1101980
+*SIL:	(2.4) 1101980_1103566
+*CHA:	Yeah (.) that’s fine 1103566_1105180
+*SIL:	(6.6) 1105180_1111070
+*CAM:	↑Can I get your cell phone↑ (.) please honey because I don’t
+	have (.) um (0.2) (   ) don’t have battery and I’m- (.) I’m
+	recording (0.4) that okay?= 1111070_1117552
+*BYS:	=Yeah= 1117552_1117908
+*CAM:	   =[Thanks hun 1117908_1118178
+*???/TAR:	[Thank you 1118178_1118676
+*SIL:	(30.7) 1118676_1149057
+*SIL:	((car engine starts)) 1149057_1150444
+*SIL:	(0.9) 1150444_1151326
+*SIL:	((car door shuts)) 1151326_1152839
+*SIL:	(12.0) 1152839_1164409
+*TAR?:	*(      )the video huh* 1164409_1165217
+*SIL:	(3.5) 1165217_1168594
+*CAM:	((Spanish)) (0.7) ((Spanish)) 1168594_1170920
+*SIL:	(2.2) 1170920_1172800
+*TAR?:	*((Spanish))* 1172800_1175078
+*SIL:	(5.8)
+@End

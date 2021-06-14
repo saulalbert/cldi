@@ -1,0 +1,103 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	CHA Challenger Unidentified, BY1 Bystander1
+	Unidentified, BY2 Bystander2 Unidentified, BY3 Bystander3
+	Unidentified, CAS Cashier Unidentified, REC Cameraperson
+	Unidentified, BY4 Bystander4 Unidentified, BYS Bystanders
+	Unidentified, SS1 Woman1 Unidentified, SS2 Woman2 Unidentified
+@Options:	CA, heritage
+@ID:	eng|Language_Discrimination_Corpus|CHA||male|||Unidentified|||
+@ID:	eng|Language_Discrimination_Corpus|BY1||female|||Unidentified|||
+@ID:	eng|Language_Discrimination_Corpus|BY2||female|||Unidentified|||
+@ID:	eng|Language_Discrimination_Corpus|BY3||male|||Unidentified|||
+@ID:	eng|Language_Discrimination_Corpus|CAS||female|||Unidentified|||
+@ID:	eng|Language_Discrimination_Corpus|REC||female|||Unidentified|||
+@ID:	eng|Language_Discrimination_Corpus|SS1||female|||Unidentified|||
+@ID:	eng|Language_Discrimination_Corpus|BYS||female|||Unidentified|||
+@ID:	eng|Language_Discrimination_Corpus|SS2||female|||Unidentified|||
+@Media:	010-everybody-else-did-jc-penny,video
+@Comment:	Original video: https://www.youtube.com/watch?v=pCeHrHFGZik
+@Comment: 	Descriptions: Challenger (CHA), Bystander 1 (BY1, not
+	visible in video), Bystander 2 (BY2, not visible in video),
+	Bystander 3 (BY3, sounds like they are standing close to the
+	camera), cashier directly behind challenger (CAS), person recording
+	(REC), Bystander 4 (not visible in video), woman in pink jacket at
+	counter (SS1), additional multiple bystanders overlapping at one
+	point (BYS), woman in purple jacket at counter (SS2)
+@Comment: 	There’s an instance where someone’s edited an expletive out.
+	I’ve marked it with (*). It’s about one syllable/200ms, so one
+	asterisk.
+@Comment:	Vernacular title: Everbody else did (JC Penny)
+@Comment:	Corpus ID: LD_010
+@Comment: 	Length: 01:21
+@Transcriber:	Olivia Marrese, 1-28-20, CLANned by Saul Albert, 2-18-21
+@Location:	JC Penny department store, Houston, Texas, USA
+@New Episode
+*CHA:    everybody else did, it STARTS BACK THERE. 0_2177
+	(1.3) 2177_3422
+*CHA:    and it don’t bother me if I say it, and [I don’t care if 3422_6110
+*BY1:                                            [(               )] 6110_6257
+*CHA:    everybody h̲e̲a̲::rs me]. 6257_6889
+	(1.0) 6889_8260
+*CHA:    I think everybody here probably feels the same d̲a̲mn way I do. 8260_10861
+	(0.4) 10861_11446
+*BY2:    (he:y). 11446_11995
+	(0.6) 11995_12679
+*CHA:    t̲h̲a̲nk you:::.= 12679_13213
+*BY3:    =(alright). 13213_13728
+	(2.0) 13728_15312
+*CHA:    just go back to wherever the (*) you come from lady. 15312_17930
+	(1.0) 17930_18646
+*CAS:    ma’am, 18646_19047
+*CHA:    y’all think [you-] 19047_19385
+*CAS:                [can you] watch your language. 19385_19914
+*CHA:    H̲E̲Y̲. (0.3) >tell em to go back< to where they belo::ng. 19914_22419
+	(1.2) 22419_23386
+*CHA:    if they can’t [act like they- you know, they come here to l̲i̲ve, 23386_25821
+*REC:                  [(°what’s that mean, where they belo:ng°)?] 25821_25953
+*CHA:    then] act like everybody else. 25953_27370
+	(0.4) 27370_27819
+*REC:    .hhhh 27819_28102
+	(.) 28102_28517
+*CHA:    get in the back of the li:ne, [like everybody else] does. 28517_30549
+*REC:                                  [(where is the    ).] 30549_30750
+ 	(0.9) 30750_31217
+*CHA:    and b̲e̲ somebody. 31217_32421
+	(0.9) 32421_33152
+*BY4:    (ma’am, nobody is bothering you.) 33152_34554
+*CHA:    and that’s the way I: look at it. 34554_35974
+	(0.4) 35974_36523
+*CHA:    y’all are no::bodies. 36523_37406
+ 	(1.2) 37406_38573
+*CHA:    just because you come from another country, >IT DON’T MAKE YOU< 38573_40686
+         N̲:̲:̲O̲BO[DY.] 40686_41152
+*SS1:          [(  ]                 ). 41152_42334
+	(0.8) 42334_42968
+*CHA:    n̲:̲:̲o̲body. 42968_43802
+	(0.8) 43802_44518
+*CHA:    far as I’m concerned. 44518_45436
+	(0.7) 45436_45920
+*CHA:    probably on w̲e̲l̲fare, 45920_47121
+	we probably- the t̲a̲xpayers probably pa̲i̲d for all that stuff. 47121_49670
+	(2.5) 49670_51472
+*BYS:    ((multiple bystanders in back laughing and talking for 1.7 sec)) 51472_53838
+*CHA:    it’s [↑tru:::e. they probably paid (.) ta- we probably pai- we 53838_56036
+*SS1:         [(                                                        )] 56036_56403
+*CHA:    probably paid for] every bit of that stuff. you know tha:t, 56403_58371
+	(0.7) 58371_59370
+*CHA:    probably a:ll the food they get, and everything else. 59370_60706
+	(0.4) 60706_61322
+*REC:    ((cough))((cough)) 61322_62199
+	(0.9) 62199_62931
+*CHA:    I’m so:rry, but that’s the way I fe̲e̲l.= 62931_64263
+*SS2:    =I say sorry. (  ). (0.3) [(    )]- 64263_65613
+*CHA:                              [it’s o]kay. speak E̲n̲g̲lish. you’re in 65613_67464
+         Amer:ica. 67464_68015
+*CAS:    I’m gonna go help her. 68015_69147
+	(0.6) 69147_69647
+*CHA:    if you don’t know it, learn it. 69647_70665
+	(5.3) 70665_76201
+*HAR:    and I’m s̲o̲r̲ry, (.) that I’m that way, but you all need to (.) 76201_78719
+         realize, you’re not the only ones around here. 78719_81066
+@End

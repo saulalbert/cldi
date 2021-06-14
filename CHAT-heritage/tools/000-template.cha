@@ -1,0 +1,20 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	CHA Challenger Unidentified, TAR Target Unidentified
+@Options:	CA, heritage
+@ID:	eng|Language_Discrimination_Corpus|CHA||male|||Unidentified|||
+@ID:	eng|Language_Discrimination_Corpus|TAR||female|||Unidentified|||
+@Media:	00-template,video
+@Comment:	Original video:
+@Comment:	Descriptions: Target
+@Comment:	Date of incident: MM-DD-YYYY
+@Comment:	Vernacular title: Template title
+@Comment:	Corpus ID: LD_000
+@Comment:	Length: 00:00
+@Transcriber:	Transcriber name, MM-DD-YYYY, CLANned by XX, MM-DD-YYYY
+@Location:	Location
+@New Episode
+*CHA:
+*TAR:
+@End

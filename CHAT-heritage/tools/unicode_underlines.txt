@@ -1,0 +1,93 @@
+'Replace underlines in Word with Unicode underlines
+'
+'Instructions for use:
+'
+' Open your word document , go to the 'Tools/Macro/Visual Basic Editor' menu item
+' Create a new module, and copy and paste this code into it.
+' Press the 'play' button in the Visual Basic window and wait a few seconds 
+' (or minutes, if it's a long file)
+' Your underlines should now have been replaced with unicode underline characters
+'----------------------------------------
+'
+Option Explicit
+
+Sub ReplaceUnderscoresInRange(rngStory As Range)
+    
+    Dim aWord As Range
+    Dim i As Long
+    Dim ch As Range
+    
+    'Loop through all the words in the range
+    
+    For Each aWord In rngStory.Words
+        'Check there is at least one character. This should always be true
+        If (aWord.Characters.Count > 0) Then
+            i = 1
+            'Loop through all the characters in the word
+            'Use a while loop because the length changes are underlines are inserted
+            Do While i <= aWord.Characters.Count
+                Set ch = aWord.Characters(i)
+                
+                'Test for a Word underline
+                If ch.Font.Underline Then
+                
+                    'Remove Word underline
+                    ch.Font.Underline = False
+                    
+                    'Do not underline a space
+                    If ch.Text <> " " Then
+                        'Insert Unicode underline after current character
+                        ch.Text = ch.Text & ChrW(818)
+                    End If
+                End If
+                i = i + 1
+            Loop
+        End If
+    Next aWord
+End Sub
+
+Sub ReplaceAllUnderscores()
+
+    Dim rngStory   As Range
+    Dim lngJunk    As Long
+    Dim oShp    As Shape
+
+    'Fix the skipped blank Header/Footer problem
+    lngJunk = ActiveDocument.Sections(1).Headers(1).Range.StoryType
+    
+    'Iterate through all story types in the current document
+    For Each rngStory In ActiveDocument.StoryRanges
+
+        'Iterate through all linked stories
+        Do
+
+            ReplaceUnderscoresInRange rngStory
+            On Error Resume Next
+
+            Select Case rngStory.StoryType
+
+                Case 6, 7, 8, 9, 10, 11
+
+                    If rngStory.ShapeRange.Count > 0 Then
+                        For Each oShp In rngStory.ShapeRange
+                            If oShp.TextFrame.HasText Then
+                                ReplaceUnderscoresInRange oShp.TextFrame.TextRange
+                            End If
+                        Next
+                    End If
+
+                Case Else
+                    'Do Nothing
+            End Select
+
+            On Error GoTo 0
+
+            'Get next linked story (if any)
+
+            Set rngStory = rngStory.NextStoryRange
+
+      Loop Until rngStory Is Nothing
+
+  Next
+
+End Sub
