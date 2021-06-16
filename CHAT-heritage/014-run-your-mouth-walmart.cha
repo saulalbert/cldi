@@ -1,9 +1,8 @@
 @UTF8
-@Window:	0_0_0_0_7328_0_7792_0_7792_0
 @Begin
 @Languages:	eng
 @Participants:	CHA Challenger Unidentified, TAR Target Unidentified, BYS
-	bystander Unidentified, MAN manager Unidentified, SIL silence
+	bystander Unidentified, MAN manager Unidentified, UNK Unknown
 	unidentified
 @Options:	CA, heritage
 @ID:	eng|Language_Discrimination_Corpus|CHA||female|||Unidentified|||
@@ -28,37 +27,37 @@
 @New Episode
 *TAR:	-(  [me) 0_466
 *CHA:	    [Run your mou:th 466_818
-*SIL:	(0.3) 818_1896
+     	(0.3) 818_1896
 *CHA:	Go [back to Mexico,= 1896_2836
 *TAR:	   [↑listen, 2836_3146
 *TAR:	=I said I said [excuse me 3146_4648
 *CHA:	               [Go h- go ba:ck wherever you’re from, ((waves arm
 	around)) 4648_6404
-*SIL:	(0.7) 6404_6920
+     	(0.7) 6404_6920
 *TAR:	I said exCHAe [me don’t me ru:de= 6920_8766
-*???:	              [( ) 8766_9036
+*UNK:	              [( ) 8766_9036
 *CHA:	=You’re the one that’s ru[de, 9036_10602
 *TAR:	                         [No I said [excuse me I’m trying to=    10602_12614
 *CHA:	                                    [Yes you are:,	12614_12874
 *TAR:	=[Buy something, 12874_13393
 *CHA:	 [((points at TAR)) ↑You’re in America, 13393_13672
-*SIL:	(0.5) 13672_14023
+     	(0.5) 13672_14023
 *TAR:	[So:? 14023_14456
 *CHA:	[((points at TAR)) ↑You[’re in America 14456_15337
 *BYS:	     [Are you fucking kid[ding me 15337_16124
 *TAR:	                         [↑so::? 16124_16443
-*SIL:	(0.5)
+     	(0.5)
 *TAR:	so [↑Wha:t? 16985_17234
 *BYS:	   [Are you serious [ri:ght no::w 17234_18539
 *CHA:	                    [((points at BYS)) ↑That’s none of your=
 	=business >s̲t̲a̲y̲ o̲u̲t̲ o̲f̲ i̲t̲<, 18539_19630
-*SIL:	(0.2) 19630_19977
+     	(0.2) 19630_19977
 *BYS:	I don’t nee::d to st[ay out of it 19977_21396
 *CHA:	                    [Stay [out of it, 21396_21885
 *TAR:	                          [I said [excuse me 21885_22158
 *BYS:	                                  [You’re yelling loud enough for=
 	=everybody to hear, stop being ignorant, 22158_25311
-*SIL:	(1.4) 25311_26624
+     	(1.4) 25311_26624
 *BYS:	[Seriously::, 26624_27865
 *CHA:	[A nigger’s calling me ignora[nt 27865_28846
 *TAR:	                             [Oh::[:	my goodness 28846_30880
@@ -66,7 +65,7 @@
 	=and all that stu[ff yes absolutely, [ignorant (0.7) yes= 30880_32764
 *TAR:	                 [Oh my goodness 32764_34344
 *TAR:	                                     [You are (.) you are very rude, 34344_35753
-*SIL:	(0.5) 35753_36409
+     	(0.5) 35753_36409
 *CHA:	No ↑you’re the one that’s rude,= 36409_37626
 *TAR:	>I said excuse me because I’m-< (.) I’m trying to grab my medicine,= 37626_40539
 *CHA:	=You told me::	(.) you know what you told me and I[ain’t gonna put=
@@ -81,12 +80,12 @@
 *TAR:	            [whatever 50203_50794
 *TAR:	=↑N̲o̲:	I’m [not going to get out of here:, 50794_51804
 *CHA:	          [((waves arm around)) You need to go back to Mexico 51804_52243
-*SIL:	(0.4) 52243_52847
+     	(0.4) 52243_52847
 *TAR:	No::, 52847_53068
-*SIL:	(0.5) 53068_53581
+     	(0.5) 53068_53581
 *TAR:	↑No I’m not↑ (.) [because this is my cou:ntry, 53581_56023
 *CHA:	                 [Are you going to stand here and argue? 56023_56546
-*SIL:	(0.2) 56546_56737
+     	(0.2) 56546_56737
 *TAR:	↑Ye:s this is my [country, 56737_57573
 *CHA:	                 [That’s not your [country, 57573_58312
 *TAR:	                                  [↑Oh yes [it is↑ 58312_58974
@@ -94,7 +93,7 @@
 	=you here 58974_60032
 *TAR:	                                                     [↑Oh yes↑ it=
 	=is, 60032_60962
-*SIL:	(0.2) 60962_61203
+     	(0.2) 60962_61203
 *TAR:	I do[n’t care, 61203_61537
 *MAN:	    [That’s not true we do [want you here, 61537_62240
 *CHA:	                           [We don’t want you [here, 62240_62819
@@ -106,11 +105,11 @@
 *CHA:	                                   [no, 65780_66292
 *BYS:	=Yeah [( ) 66292_66856
 *TAR:	      [How ru::de 66856_67450
-*SIL:	(0.2) 67450_67896
+     	(0.2) 67450_67896
 *MAN:	All is [well ma’am 67896_68400
 *BYS:	       [t̲h̲a̲n̲k̲ yo[u, 68400_68735
 *TAR:	                [How ru::de 68735_68996
-*SIL:	(.) 68996_69881
+     	(.) 68996_69881
 *CHA:	((waves arm around)) Get her to- (m-) [leave me alone 69881_71072
 *MAN:	                                      [No ma’am (what di- did-)=
 	=this is inappropriate, [(0.5) for- for the- 71072_72633
@@ -121,60 +120,60 @@
 *CHA:	    [Tell her,= 75212_75701
 *MAN:	=It’s inappro[priate s̲p̲e̲a̲k̲ for the store, 75701_76614
 *TAR:	             [↑I said excuse↑ me 76614_78072
-*SIL:	(1.6) 78072_79559
+     	(1.6) 78072_79559
 *CHA:	I’m not here for the store, 79559_80800
-*SIL:	(0.7) 80800_81410
+     	(0.7) 80800_81410
 *MAN:	You’re i̲n̲ the store, 81410_82325
-*SIL:	(0.2) 82325_82763
+     	(0.2) 82325_82763
 *CHA:	I’m spending money in the sto[re, 82763_83912
 *MAN:	                             [Cor[rect 83912_84395
 *TAR:	                                 [So ↑am I̲:̲↑ [.hh 84395_84990
 *CHA:	                                             [That’s correct, 84990_85606
-*SIL:	(0.2) 85606_85949
+     	(0.2) 85606_85949
 *MAN:	uh huh. (.) So we’re both [customers, 85949_87066
 *CHA:	                          [((waves arm around)) Please go 87066_87459
-*SIL:	(0.2) 87459_87752
+     	(0.2) 87459_87752
 *CHA:	p̲l̲e̲a̲s̲e̲ [go, 87752_87944
 *MAN:	       [(come forward)=  87944_88624
 *TAR:	=Oh [hh how ru:de 88624_89021
 *CHA:	    [Get out of here 89021_89539
 *MAN:	    [(This way)(just- just come here) 89539_90544
-*SIL:	(0.4) 90544_90867
+     	(0.4) 90544_90867
 *TAR:	.hhhh= 90867_92418
 *MAN:	=(Just come here) 92418_92960
-*SIL:	(.) 92960_93408
+     	(.) 92960_93408
 *TAR:	<Are you serious> 93408_94427
-*SIL:	(1.0) 94427_96165
+     	(1.0) 94427_96165
 *TAR:	No way way way (wait a min[ute) 96165_98388
 *BYS:	                          [shut up, are you- 98388_99584
-*SIL:	(0.8) 99584_99971
+     	(0.8) 99584_99971
 *TAR:	°Are you [serious° ((sniffle)) 99971_102299
 *BYS:	         [Does she honestly still have a right [to be here 102299_102828
 *MAN:	                                               [no ma’am 102828_103418
-*SIL:	(0.2) 103418_103720
+     	(0.2) 103418_103720
 *BYS:	Okay, 103720_103999
 *MAN:	I am going to have to ask you to leave ma’am 103999_104697
-*SIL:	(0.6) 104697_105526
+     	(0.6) 104697_105526
 *MAN:	This is inappropriate 105526_106056
-*SIL:	(0.7) 106056_106902
+     	(0.7) 106056_106902
 *CHA:	It’s not my fault ((points at TAR)) she started it= 106902_108394
 *TAR:	°I did not do anything I said [e̲x̲c̲u̲s̲e̲ me° 108394_110308
 *CHA:	[>You going to make ((points at TAR))= 110308_110570
 	=her< l̲e̲a̲v̲e̲ t̲o̲o̲? 110570_111581
-*SIL:	(0.6) 111581_111953
+     	(0.6) 111581_111953
 *MAN:	Well you’re just causing a scene in the s̲t̲o̲r̲e̲= 111953_113588
 *CHA:	=((points at herself)) I’m not ((points at TAR)) ↑↑s̲h̲e̲ is= 113588_114671
 *TAR:	=[No I did not 114671_115973
 *MAN:	 [<by::	wha[t> 115973_116224
 *CHA:	           [Did you watch ↑it? 116224_116743
-*SIL:	(0.3) 116743_117263
+     	(0.3) 116743_117263
 *MAN:	>No,<= 117263_117741
 *CHA:	=You weren’t [even here 117741_118516
 *MAN:	             [I- I heard y̲o̲u̲ [from the office, 118516_119548
 *CHA:
 	[((points at TAR)) ↑↑s̲h̲e̲:̲	̲is that’s=   =because she was mouthing ↑me:= 119548_121265
 *TAR:	=No I said excuse me 121265_122803
-*SIL:	(.) 122803_123086
+     	(.) 122803_123086
 *CHA:	So don’t tell me it’s my faul[t 123086_124608
 *TAR:	                             [>and you said< every time I’m- on an= 124608_128621
 *	=isle (.) p̲e̲o̲p̲l̲e̲ just c̲o̲m̲e̲ [n̲e̲a̲r̲ m̲e̲
@@ -187,49 +186,49 @@
 *CHA:	              [She (didn’t) she’s making it all up,= 134858_135629
 *TAR:	=No I’m [not 135629_136672
 *CHA:	        [every bit of it up, 136672_137300
-*SIL:	(0.8) 137300_137866
+     	(0.8) 137300_137866
 *TAR:	Wow, 137866_139287
-*SIL:	(0.7) 139287_140100
+     	(0.7) 139287_140100
 *CHA:	Just get your stuff and go 140100_140959
-*SIL:	(0.6) 140959_141908
+     	(0.6) 140959_141908
 *TAR:	Oh:[:	my gosh 141908_143173
 *MAN:	[She’s shopping as well ma’am, [she has every right to be here =    =as you, 143173_144951
 *CHA:	                                  [I am too and I’m not going to=
 	=listen to her mou:th 144951_146439
-*SIL:	(1.0) 146439_147884
+     	(1.0) 146439_147884
 *MAN:	You don’t have to l̲i̲s̲t̲e̲n̲ to her but she’s
 	St[ill here and has every=  =right (.) <to shop> 147884_151357
 *CHA:	                                            [I do when she’s=
 	=((crab hand gesture))(dutdutdut) I do,= 151357_152165
 *MAN:	=Which is what you’re doing as well ma’am 152165_153411
-*SIL:	(2.5) 153411_155538
+     	(2.5) 153411_155538
 *CHA:	((moves closer to MAN)) What’s your name, [Wes? 155538_157100
 *MAN:	                                          [Wes 157100_157681
-*SIL:	(1.4) 157681_158920
+     	(1.4) 157681_158920
 *MAN:	I’m just trying to resolve a conflict here that’s al[l, 158920_160380
 *CHA:	                                                    [no you’re not, 160380_161038
-*SIL:	(.) 161038_161260
+     	(.) 161038_161260
 *MAN:	Yes I am 161260_161973
-*SIL:	(.) 161973_162440
+     	(.) 161973_162440
 *CHA:	No you’re n[ot, 162440_163263
 *MAN:	           [That’s exactly what I’m trying to [do 163263_163836
 *CHA:	                                              [The c̲o̲n̲f̲l̲i̲c̲t̲
 	(.)=
 	=is ((points at TAR)) her, 163836_165120
-*SIL:	(0.3) 165120_165691
+     	(0.3) 165120_165691
 *TAR:	I (.) did not do anything to [you ma’am 165691_166851
 *CHA:	                             [And no one’s going to [talk to me =
 	=like she did 166851_168305
 *TAR:				     [You push your =
 	=cart towards me [and push me 168305_169652
 *CHA:	                 [nobody, 169652_170172
-*SIL:	(0.9) 170172_170857
+     	(0.9) 170172_170857
 *CHA:	I didn’t push yo[u I didn’t touch you 170857_172429
 *TAR:	                [Yes you pushed me with your c̲a̲r̲t̲ 172429_172874
-*SIL:	(0.2) 172874_173465
+     	(0.2) 172874_173465
 *CHA:	Oh wha:t(h)ever, hh hh hh 173465_175268
-*SIL:	(0.3) 175268_176037
+     	(0.3) 175268_176037
 *CHA:	god ((walks away)) I ain’t listening to this bullcrap 176037_178099
-*SIL:	(6.8) 178099_184027
+     	(6.8) 178099_184027
 *BYS:	Oh my god- 184027_1
 @End

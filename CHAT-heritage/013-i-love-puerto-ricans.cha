@@ -4,7 +4,7 @@
 @Participants:	CHA Challenger Unidentified, TAR Target Unidentified, MNA
 	Man_A Unidentified, MNB Man_B Unidentified, MNC Man_C Unidentified,
 	MND Man_D Unidentified, PM1 Policeman1 Unidentified, PM2 Policeman2
-	Unidentified, SIL Silence Unidentified
+	Unidentified
 @Options:	CA, heritage
 @ID:	eng|Language_Discrimination_Corpus|CHA||male|||Unidentified|||
 @ID:	eng|Language_Discrimination_Corpus|TAR||male|||Unidentified|||
@@ -103,28 +103,28 @@
 *CHA:	[(  )                    ] ((puts hood up on her head)) 66326_66526
 *MNB:	                 [Yea::h?] 66526_66793
 *MNA:	Aren’t you happy now. 66793_68054
-*SIL:	(2.6) 68054_69823
+     	(2.6) 68054_69823
 *MNA:	°↑No it’s good°. 69823_70822
 *MNA:	I’m happy I’m fine. I’m just not willing to let this r̲a̲c̲i̲s̲t̲
 	i̲d̲i̲o̲t̲ get away with this:- her s̲t̲u̲pid narrative. 70822_76290
-*SIL:	(2.3) 76290_78191
+     	(2.3) 76290_78191
 *MNB:	R::ight. 78191_78758
 *MNA:	↑Hn [I’m not a racist] ↑huhu[huhuhuh ] 78758_80526
 *MNB:	    [Good man.       ]      [good man] good man. 80526_81225
 *MNA:	Listen to these people. 81225_83092
-*SIL:	(2.0) 83092_84660
+     	(2.0) 83092_84660
 *MNA:	°Tsh-° 84660_84960
-*SIL:	(7.3) 84960_90426
+     	(7.3) 84960_90426
 *MND:	((walking from front of bus)) Great now I’m late. ((speaks directly
 	to CHA as he walks past her.)) 90426_91636
-*SIL:	(1.5) 91636_92927
+     	(1.5) 91636_92927
 *MNC:	Hehehehuh. 92927_93760
 *CHA:	Yeah well I’m late everyday because there’s no w̲o̲r̲k̲i̲n̲g̲
 	c̲l̲a̲s̲s̲ b̲u̲s̲ s̲y̲s̲t̲e̲m̲.̲ 93760_97422
 *CHA:	(Think-) the b̲u̲s̲ s̲y̲s̲t̲e̲m̲ caters to the s̲t̲u̲dents. 97422_99955
-*SIL:	(laughter)) 99955_101223
+     	(laughter)) 99955_101223
 *CHA:	And where are the students from? 101223_102054
-*SIL:	((laughter from multiple people on the bus)) 102054_103388
+     	((laughter from multiple people on the bus)) 102054_103388
 *CHA:	And where do those students go b̲a̲c̲k̲ to. 103388_104456
 *MNA:	↑Listen to her. 104456_105589
 *CHA:	Yeah. 105589_106089
@@ -146,22 +146,22 @@
 *MNB:	[I be:t. ] 123461_123594
 *CHA:	Thank you sir. 123594_124195
 *MNA:	You’re welcome b̲y̲e̲. 124195_125362
-*SIL:	(1.0) 125362_126228
+     	(1.0) 125362_126228
 *CHA:	When are the police getting here ple:ase, 126228_127707
 *MNA:	I don’t know hh [I hope it’s soon.    ] 127707_129096
 *MNC:	                [Yeah but I’m thinking] you went viral for a good
 	thing. 129096_129967
 *MNB:	Hheheheh. 129967_130895
-*SIL:	(3.5) 130895_134480
+     	(3.5) 130895_134480
 *MNA:	°Heheheh° 134480_134888
 *MNB:	Sheheh 134888_135591
 *MNA:	She really thinks they’re coming here to back her up. 135591_136983
 *MNB:	That’s n̲u̲t̲s̲. 136983_138452
-*SIL:	(3.8) 138452_141992
+     	(3.8) 138452_141992
 *MNC:	(Bi-) 141992_142261
-*SIL:	((police officer boards the bus)) 142261_142528
+     	((police officer boards the bus)) 142261_142528
 *PM1:	Hey how are ya. 142528_143329
-*SIL:	(1.0) 143329_143961
+     	(1.0) 143329_143961
 *CHA:	Hello. 143961_144562
 *PM1:	He:y what’s goin on. 144562_145461
 *CHA:	I made a comment to those (.) kids: I asked them to speak English and
@@ -185,10 +185,10 @@
 	talk to the bus driver, 175487_180157
 *PM2:	Hey how are ya. 180157_181456
 *CHA:	Hey yeah- 181456_182730
-*SIL:	(1.5) 182730_184664
+     	(1.5) 182730_184664
 *MNC:	Nhheh 184664_186417
 *UNK:	<Hehhehhehheh>. 186417_188482
-*SIL:	(0.8) 188482_189052
+     	(0.8) 188482_189052
 *MNC:	I swear people are (s  ). 189052_190067
 *MNB:	You know this is the hhh first- the first time since I’ve been in
 	Amherst I:: ever [seen this- 190067_195486
@@ -202,7 +202,7 @@
 	happen here. 201397_205632
 *MNA:	Yeah. 205755_206223
 *MNB:	I would never. 206223_206822
-*SIL:	(2.6) 206822_208995
+     	(2.6) 206822_208995
 *MNA:	Op now she’s walking. 208995_209603
 *MNB:	Oh she ma:d. 209603_210723
 *MNA:	Heh heh heh. 210723_211699
@@ -223,13 +223,13 @@
 *MNA:	       [That’s it ] and I won’t tolerate somebody who does that. 227960_229559
 *TAR:	((nods head)) 229559_229904
 *MNA:	To a̲n̲y̲ visitor to my town. 229904_231535
-*SIL:	(1.2) 231535_232559
+     	(1.2) 231535_232559
 *MNB:	God bless. 232559_233503
 *MNA:	Thanks for comin here. 233503_234562
 *TAR:	((nods)) 234562_235261
 *MNA:	You make it better by your presence. 235261_236893
 *MNB:	Yeah. 236893_237501
-*SIL:	((police man enters bus and walks up isle towards A, B, C, and D)) 237501_239293
+     	((police man enters bus and walks up isle towards A, B, C, and D)) 237501_239293
 *PM1:	So: ah who did they approach. 239293_240301
 *MNC:	Um that guy right there= 240301_241323
 *MNA:	=Uh she was speaking- she was uh-= 241323_242924

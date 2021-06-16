@@ -1,10 +1,9 @@
 @UTF8
-@Window:	0_0_0_0_0_0_530_0_530_0
 @Begin
 @Languages:	eng
 @Participants:	CHA Challenger Unidentified, PHA pharmacist Unidentified,
 	LIG man in light blue Unidentified, BLU man in dark blue
-	Unidentified, SIL silence Unidentified
+	Unidentified
 @Options:	CA, heritage
 @ID:	eng|Language_Discrimination_Corpus|CHA||female|||Unidentified|||
 @ID:	eng|Language_Discrimination_Corpus|PHA||female|||Unidentified|||
@@ -33,85 +32,85 @@ employee-speaking-chinese-1468682
 @Location:	Shoppers Drug Mart, Burnaby, Canada
 @New Episode
 *CHA: Who do I complain about about her and that other guy 0_1889
-*SIL:	(0.6) 	1889_2627
+     	(0.6) 	1889_2627
 *CHA: speaking in Chin[- shut up (0.5) speaking in Chinese in front of me 2627_5283
 *PHA:                 [oh (        ) ((shakes head)) 5283_5802
-*SIL:	(0.6) 5802_6035
+     	(0.6) 5802_6035
 *CHA: Shut up (.) you’re rude 6035_7809
-*SIL:	(0.3) 7809_8266
+     	(0.3) 7809_8266
 *CHA: Speak English in Canada= 8266_9168
 *LIG: =(     [    ) 9168_9658
 *CHA:        [Rude as fuck 9658_10117
-*SIL:	(0.6) 10117_10658
+     	(0.6) 10117_10658
 *CHA: Who do I complain [about 10658_11809
 *PHA:                   [(    [  ) 11809_12257
 *CHA:                         [shut up 12257_12602
-*SIL:	(0.6) 12602_13190
+     	(0.6) 12602_13190
 *CHA: You’re rude 13190_13634
-*SIL:	(0.5) 13634_14169
+     	(0.5) 13634_14169
 *CHA: You are rude 14169_15054
 *PHA: ((shakes head)) (0.3) 15054_15580
 *CHA: Go somewhere else 15580_16247
-*SIL:	(0.4) 16247_17098
+     	(0.4) 16247_17098
 *CHA: Who do I complain about to her [(in front of me) 17098_19376
 *LIG:                                [(                ) call our (     )=
 	=line and he’s in [(     ) 19376_22677
 *CHA:                   [Give me the number 22677_23071
-*SIL:	(0.5) 23071_23999
+     	(0.5) 23071_23999
 *LIG: (You can) call our store number [(       ) 23999_25209
 *CHA:                                 [What’s your <store number> 25209_26330
-*SIL:	(0.6) 26330_26971
+     	(0.6) 26330_26971
 *LIG: (    [  ) 26971_27439
 *PHA:      [on the top of the [receipt 27439_29260
 *LIG:                         [the receipt the receipt (      )= 29260_30298
 *CHA: =Okay can you finish running me thr[ough please 30298_32705
 *LIG:                                    [Yeah sure 32705_33324
-*SIL:	(13.2) 33324_43679
+     	(13.2) 33324_43679
 *BLU: Okay (0.4) Sharon is the boss like (    ) manager here (.) She
 	says she will be with (       [    ) 43679_47708
 *LIG:                               [(       [  ) 47708_49084
 *BLU:                                        [yeah no Sharon want-=
 	=(oh- uh-        ) 49084_50715
-*SIL:	(0.4) 50715_51467
+     	(0.4) 50715_51467
 *CHA: (Y'all) have another manager?= 51467_52514
 *BLU: =Yes [yes go over there 52514_53861
 *LIG:     [(      ) 53861_54074
-*SIL:	(.) 54074_54249
+     	(.) 54074_54249
 *CHA: Who? 54249_54418
-*SIL:	(0.5) 54418_54892
+     	(0.5) 54418_54892
 *LIG: (      [  ) 54892_55238
 *CHA:        [YOU WANT A MANAGER TO TALK TO ME YOU BRING YOUR MANAGER HERE 55238_58723
-*SIL:	(.) 58723_59129
+     	(.) 58723_59129
 *BLU: You get out 59129_59320
-*SIL:	(.) 59320_59883
+     	(.) 59320_59883
 *CHA: IF YOU WANT TO TALK [TO ME YOU BRING [YOUR MANAGER HERE YOU IDIOT OR= 59883_62679
 *LIG:                     [(Alex Alex         62679_63005
 *BLU:                                      [(        ) 63005_63235
 *CHA: =GO SPEAK CHINESE AT YOUR OTHER STAFF AND SHIT TALK ME SOMEWHERE ELSE 63235_65817
-*SIL:	(.) 65817_66155
+     	(.) 65817_66155
 *BLU: (     [          ) 66155_66344
 *LIG:           (                   ) 66344_66532
 *CHA:       [GET HIM SOMEWHERE ELSE 66532_67392
 *CHA: WHAT THE HELL IS GOING ON DOES HE START FIGHTS with all you[r fucking
 	people? 67392_71402
 *BLU/LIG:                                                        [no no no 71402_72069
-*SIL:	(0.3) 72069_72306
+     	(0.3) 72069_72306
 *CHA: THEN GET HIM IN THE BACK THAT IS RUDE 72306_74097
-*SIL:	(1.0) 74097_74561
+     	(1.0) 74097_74561
 *BLU: I- I think there’s- [(            [     ) 74561_76530
 *LIG:                     [(      ) 76530_77222
 *CHA:                                   [SHUT UP AND GET OUT OF HERE YOU
 	IDIOT 77222_79657
-*SIL:	(.) 79657_80161
+     	(.) 79657_80161
 *BLU: (      okay)= 80161_80419
 *LIG: =(That’s fine)= 80419_81102
 *CHA: That’s fucking rude 81102_82068
-*SIL:	(1.0) 82068_82916
+     	(1.0) 82068_82916
 *LIG: (          ) 82916_83845
 *BLU: (          ) I know I know I know 83845_85641
-*SIL:	(0.6) 85641_86258
+     	(0.6) 85641_86258
 *BLU: (       ) 86258_86875
-*SIL:	(0.7) 86875_87387
+     	(0.7) 86875_87387
 *LIG: Yeah [(       ) 87387_88210
 *CHA:      [YOU KNOW ABOUT WHAT, you know about what that I’ve (
 	fighting me after speaking in a different fucking language shit
@@ -119,11 +118,11 @@ employee-speaking-chinese-1468682
 *LIG: =(I would absolutely [   ) 94519_95241
 *CHA:                      [That’s pathetic get him out of here (.) it’s
 	RUDE 95241_97699
-*SIL:	(0.9) 97699_98461
+     	(0.9) 97699_98461
 *BLU: (        [        okay)= 98461_99683
 *CHA:          [SHUT UP 99683_100688
 *CHA: SHUT UP= 100688_101863
 *BLU: = (I     for this) 101863_102806
-*SIL:	(1.2) 102806_103804
+     	(1.2) 102806_103804
 *CHA: Fucking idiot 103804_104452
 @End

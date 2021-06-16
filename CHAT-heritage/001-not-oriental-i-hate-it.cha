@@ -2,8 +2,7 @@
 @Begin
 @Languages:	eng
 @Participants:	CHA Challenger Unidentified, TAR Target Unidentified,
-	MAN Manager Unidentified, VAN Employee Unidentified, SIL Silence
-	Unidentified
+	MAN Manager Unidentified, VAN Employee Unidentified
 @Options:	CA, heritage
 @ID:	eng|Language_Discrimination_Corpus|CHA||male|||Unidentified|||
 @ID:	eng|Language_Discrimination_Corpus|TAR||female|||Unidentified|||
@@ -28,33 +27,33 @@
 *CHA:	In here in America in a (          ) America, should speak
 	English 7740_11036
 *MAN:	I’m sorry but 11036_11820
-*SIL:	(0.2) 11820_12181
+     	(0.2) 11820_12181
 *MAN:	They are compl(h)ete(h)ly allowed to use their own
 	language 12181_14100
-*SIL:	(0.7) 14100_14820
+     	(0.7) 14100_14820
 *MAN:	Feel free (.) to please leave 14820_16300
-*SIL:	(2.9) 16300_19012
+     	(2.9) 16300_19012
 *CHA:	I don’t wanna hear the language 19012_21396
-*SIL:	(0.5) 21396_22220
+     	(0.5) 21396_22220
 *MAN:	We d̲o̲ wanna hear it 22220_22748
-*SIL:	(1.0)  22748_23931
+     	(1.0)  22748_23931
 *TAR:	Then you better go out from here 23931_25364
-*SIL:	(1.9) 25364_27215
+     	(1.9) 25364_27215
 *CHA:	You can sit and be quiet 27215_28599
-*SIL:	(0.2) 28599_28948
+     	(0.2) 28599_28948
 *CHA:	F̲ine 28948_29347
 *VAN:	=This is not the first [time that you’ve (yelled at) our  29347_31814
 *CHA:	                       [But I don’t wanna hear your language 31814_31982
 *VAN:	other customers] 31982_32350
 *CHA:	               ] 32350_32798
-*SIL:	(1.3) 32798_34127
+     	(1.3) 32798_34127
 *CHA:	I don’t wanna hear it. 34127_34648
-*SIL:	(0.3) 34648_35222
+     	(0.3) 34648_35222
 *ANN:	We have a [freedom to use my own language  ] 35222_36871
 *CHA:	          [And I don’t want to ta:lk to you] 36871_37022
-*SIL:	(1.6) 37022_38716
+     	(1.6) 37022_38716
 *MAN:	I’m asking you to please leave. 38716_39817
-*SIL:	(0.9) 39817_40804
+     	(0.9) 39817_40804
 *CHA:	If they wanna sit and be quiet (.) that’d be great= 40804_44117
 *VAN:	=If you don’t wanna hear it, they’re welcome to be here,
 	they’re doing nothing wrong, you’re the [one that’s causing= 44117_47317
@@ -65,19 +64,19 @@
 *CHA:	                      [Go back there] 49632_50051
 *VAN:	=excuse me? 50051_50668
 *CHA:	hhh You’re gonna be in trouble 50668_52647
-*SIL:	  (0.3) 52647_52975
+     	  (0.3) 52647_52975
 *CHA:	[When I get] this letter out. 52975_54059
 *MAN:	[Excuse me ] 54059_54425
-*SIL:	(1.0) 54425_55930
+     	(1.0) 54425_55930
 *VAN:	You’re pressing 55930_56284
-*SIL:	(0.8) 56284_57340
+     	(0.8) 56284_57340
 *VAN:	numbers over and over again 57340_58301
-*SIL:	(2.0) 58301_60199
+     	(2.0) 58301_60199
 *CHA:	Excuse me? 60199_61594
 *MAN:	Ok now I’m asking you to leave (.) if you don’t wanna leave
 	I’m g̲o̲i̲n̲g̲ to call the police 61594_64887
-*SIL:	(1.1) 64887_66035
+     	(1.1) 64887_66035
 *MAN:	That’s up to you 66035_67078
-*SIL:	(0.3) 67078_67564
+     	(0.3) 67078_67564
 *CHA:	That’s fine 67564_68163
 @End
