@@ -1,0 +1,99 @@
+@UTF8
+@Window:	410_1086_1055_1358_-1_-1_3979_0_3981_0
+@Begin
+@Languages:	eng, spa
+@Participants:	CHA Challenger Unidentified, TAR Target Unidentified, BY1
+	Bystander 1 Unidentified, BY2 Bystander 2 Unidentified, BY3
+	Bystander 3 Unidentified, AUD Audience en Masse Unidentified, OMA
+	Other Members of Audience Unidentified
+@Options:	CA, heritage
+@ID:	eng|Language_Discrimination_Corpus|CHA||male|||Unidentified|||
+@ID:	spa|Language_Discrimination_Corpus|TAR||female|||Unidentified|||
+@ID:	eng|Language_Discrimination_Corpus|BY1||male|||Unidentified|||
+@ID:	eng|Language_Discrimination_Corpus|BY2||male|||Unidentified|||
+@ID:	eng|Language_Discrimination_Corpus|BY3||female|||Unidentified|||
+@ID:	eng|Language_Discrimination_Corpus|BY4||female|||Unidentified|||
+@ID:	eng|Language_Discrimination_Corpus|AUD||male|||Unidentified|||
+@ID:	eng|Language_Discrimination_Corpus|OMA||male|||Unidentified|||
+@Media:	026-english-only-usa,video
+@Comment:	Original video: https://www.youtube.com/watch?v=e3Rb9mIOivI
+@Comment:	Descriptions: Target (TAR, host of children’s program), Challenger
+		(CHA, member of audience), Bystander 1 (BY1), Bystander 2
+		(BY2), Bystander 3 (BY3), Other members of audience (OMA),
+		Audience en masse (AUD)
+@Comment:	Takes place at the beginning of a kindergarten concert
+		performance
+@Comment:	Date of incident: 16-04-2015
+@Comment:	Vernacular title: English only USA
+@Comment:	Corpus ID: LD_026
+@Comment:	Length: 01:59
+@Transcriber:	GRT 15-06-2021, Modified by OHM 12-07-2021; CWR 01-08-2021
+		CLANned by FS, 23-05-2022
+@Location:	Perry performing Arts Center kindergarten concert,
+		Perry, Iowa, USA
+@New Episode
+        ((child yelling in the background)) 0_4370
+*TAR:	Buenas noches y bienvenidos al concierto del kínder, 4370_5930
+	good evening and welcome to the kindergarten concert 5930_7150
+	(0.3) 7150_7349
+*CHA:	<EN[GLISH      ON]LY.>   ((chant-like throughout)) 7349_7979
+           [y en el tema-] 7979_8621
+          and in the theme 8621_8901
+	(0.2) 8901_9332
+*CHA:	[U̲    ] S̲ A̲. ((chant-like throughout)) 9332_10348
+*BY1:	[PAH::] ((=gasp/laugh)) 10348_11306
+	(0.2) 11306_11542
+*CHA:	[<ENGLISH O̲NLY.> (0.3) U̲ S̲ A̲. (0.2) <ENGLISH ONLY.> (U̲ S̲ A̲.) 11542_12724
+*AUD:	[((murmuring, gets progressively louder, shouting)) (uh henh.) C’M 12724_13150
+	ON:. ↑COME ON. 13150_13833
+	((camera turns to show people beginning to physically remove CHA 13833_14901
+	from the auditorium, which continues through CHA’s continued 14901_15076
+	chanting)) 15076_15601
+*CHA:	U̲ S̲ A̲. 15601_16385
+	(.) 16385_16646
+*OMA:	G̲ET OU:T. 16646_17145
+*CHA:	<ENGLISH O̲NLY.> 17145_17403
+*OMA:	G̲ET [OUT.] ((audience murmuring and shouting continues)) 17403_18586
+*CHA:	    [U̲   ] S̲ A̲. 18586_19199
+	(.) 19199_19402
+*OMA:	T̲AKE [H̲IM AWAY:.] 19402_20321
+*CHA:	     [ENGLISH O̲N̲]̲LY. 20321_20765
+*AUD:	[((continues murmuring, shouting)) 20765_21347
+	(0.2) 21347_21469
+*CHA:	[<ENGLISH O̲NLY.> (0.2) U̲ S̲ A̲. (0.2) <EN[GLISH    ] O̲N:LY.> U̲ S̲ A̲. 21469_23282
+*OMA:	                                       [hheh heh,] 23282_23468
+*AUD:	[((continues murmuring, shouting)) 23468_24201
+	(0.2) 24201_24536
+*CHA:	[<ENGLISH O̲N̲:]LY. 24536_25463
+*BY2:	[‘M̲U̲R̲ICA::::.] 25463_27101
+	((laughter from BY2’s group/others, including BY3 and BY4)) 27101_28185
+*BY3:	[£Sto[::::p           ] 28185_30904
+*CHA:	[ENGL[ISH ONLY. 30904_31731
+*BY4:	[You’re gonna get] kicked o:ut. 31731_32414
+*AUD:	(3.9)((continues murmuring, shouting)) 32414_32921
+*CHA:	<ENGLISH O̲NLY.> (0.2) U̲ S̲ A̲. (0.4) <ENGLISH O̲NLY.> (0.3) 32921_37457
+	U̲ [S̲ A̲. ((in distance)) 37457_38751
+*TAR:	  [Bienvenidos 38751_39270
+	   welcome 39270_40047
+	al concierto que estamos preparando hoy 40047_41386
+	to the concert that we’re putting on today 41386_42946
+	[para ustedes y sus hijos, (1.0) esta es una (  ) 42946_43086
+	for you all and your children, (1.0) this is a (  ) 43086_44396
+*AUD:	[((clapping and cheering, progressively louder 44396_45863
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*:
+@End
